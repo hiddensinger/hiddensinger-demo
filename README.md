@@ -1,1 +1,2 @@
-# hiddensinger-demo
+# hiddensinger.github.io
+HiddenSinger demo page
